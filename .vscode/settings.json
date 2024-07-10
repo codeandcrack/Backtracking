@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
